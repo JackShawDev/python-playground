@@ -23,12 +23,15 @@ python-playground/
 ## Current Progress
 
 ### Lesson 1
-
 - Variables
-- `print()`
-- `input()`
-- Program execution
-- User interaction
+- Input and output
+- Sequential execution
+
+### Lesson 2
+- Data types
+- Type conversion
+- Basic arithmetic
+- Interactive console applications
 
 ---
 
